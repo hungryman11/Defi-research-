@@ -14,5 +14,10 @@ It includes:
 - Python MEV analyzer using Ethereum RPC
 - Backtesting engine for trading strategies
 
+cd smart-contracts/hardhat
+npm install
+npx hardhat compile
+
+
 ## Getting Started
 ```bash
